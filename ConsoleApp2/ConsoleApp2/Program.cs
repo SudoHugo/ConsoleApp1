@@ -8,7 +8,7 @@ namespace ConsoleApp2
         {
             Console.WriteLine("Hello World!");
 
-            weff    34f3    4f134f
+            Console.Write("show up");
         }
     }
 }
